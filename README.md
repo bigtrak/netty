@@ -29,3 +29,5 @@ Development of all versions takes place in each branch whose name is identical t
 
 ## Another change to allow a 'git push' from a workstation to trigger travis?
 
+## Another change because I changed projects and forgot to enable travis
+	for the new workspace repo.
