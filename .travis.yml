@@ -1,3 +1,4 @@
+# change travis.yml to see if that forces build?
 language: java
 jdk:
   - oraclejdk7
@@ -7,6 +8,7 @@ branches:
     - master
     - 3
     - 3.5
+    - 4.1
 before_install: 'mvn -version'
 install: 'mvn clean install -Pfull -DskipTests'
 
