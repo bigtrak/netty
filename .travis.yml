@@ -1,8 +1,8 @@
 # change travis.yml to see if that forces build?
 language: java
 jdk:
-  - oraclejdk7
-  - openjdk7
+  - oraclejdk8
+  - openjdk8
 branches:
   only:
     - master
